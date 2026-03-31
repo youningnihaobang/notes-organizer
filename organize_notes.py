@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-笔记整理与知识关联工具
+
+---
+name: organize_notes
+description: 笔记整理与知识关联工具
 
 功能：
 1. 分析目录结构，按用户指定的分类方案重组笔记
 2. 为高度相关的知识点添加Obsidian风格的双向链接
-"""
+---
+
 
 import os
 import re
