@@ -1,6 +1,9 @@
 ---
-name: organize-notes
-description: 笔记整理与知识关联工具，功能是分析目录结构，按用户指定的分类方案重组笔记，为高度相关的知识点添加Obsidian风格的双向链接
+name: notes-organizer
+description: A note organization and knowledge-linking tool that analyzes the directory structure, reorganizes notes according to the user's chosen classification scheme, and adds Obsidian-style bidirectional links between highly related topics.
+license: MIT
+metadata:
+  author: youningnihaobang
 ---
 
 # 笔记整理与知识关联
