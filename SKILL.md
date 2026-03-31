@@ -1,5 +1,5 @@
 ---
-name: organize_notes
+name: organize-notes
 description: 笔记整理与知识关联工具，功能是分析目录结构，按用户指定的分类方案重组笔记，为高度相关的知识点添加Obsidian风格的双向链接
 ---
 
